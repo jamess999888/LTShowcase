@@ -16,18 +16,23 @@ Install Python from [here](https://www.python.org/downloads/)
 ---
 
 ## Usage
-### Intended use  
+### Primary use case  
 
 - pull this repository
 - download and run my docker container:  
   - docker run -p 49160:8080 -d jamess999/leantech  
 - run photo-album.py python script
-  - python photo-album.py \<album number>
+  - python photo-album.py \<album number>  
   
   
+### Local Build and Test
+- pull this repository and cd to the directory root within a terminal
+- npm install
+- npm run test
 
-
-
-
-### Local Docker Build
-
+### Local Build and run
+- pull this repository and cd to the directory root within a terminal
+- npm install
+- node src/photoAlbum.js
+- modify port in photo-album.py to 8080 on line 6
+- python photo-album.py
