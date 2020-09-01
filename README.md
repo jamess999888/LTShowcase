@@ -22,7 +22,7 @@ Install Python from [here](https://www.python.org/downloads/)
 - download and run my docker container:  
   - docker run -p 49160:8080 -d jamess999/leantech  
 - run photo-album.py python script
-  - python photo-album.py <album number>
+  - python photo-album.py \<album number>
   
   
 
