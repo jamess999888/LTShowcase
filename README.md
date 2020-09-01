@@ -1,6 +1,6 @@
 Technical Showcase For LeanTechniques
 ============
-This is a simple project but it is listed as a technical showcase! I have taken a risk here today because I believe that technial showcase means we need to showcase something different and cool instead of making a python script that can probably achieve this in about 15 lines.
+#### This is a simple project but it is listed as a technical showcase! I have taken a risk here today because I believe that technial showcase means we need to showcase something different and cool instead of making a python script that can probably achieve this in about 15 lines.
 ---
 
 ## Features
